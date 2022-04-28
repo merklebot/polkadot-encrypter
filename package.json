@@ -1,0 +1,11 @@
+{
+  "name": "polkadot-encrypter",
+  "version": "0.0.1",
+  "type": "module",
+  "dependencies": {
+    "@polkadot/api": "^7.15.1",
+    "@polkadot/keyring": "^8.7.1",
+    "@polkadot/util": "^8.7.1",
+    "@polkadot/util-crypto": "^8.7.1"
+  }
+}
